@@ -29,8 +29,6 @@ The methodology followed in this project involves the following key steps:
    - **TPUs**: Tensor Processing Units were used to parallelize the model training, significantly reducing training time.
    - **GPUs**: Graphical Processing Units were also used to compare the performance with TPU-based distributed learning.
 
-![Methodology Flowchart](https://via.placeholder.com/800x300.png?text=Methodology+Flowchart)
-
 ## 📊 Results
 
 The system achieved an accuracy of over **98%** across all distributed models, with significant speedups in training times when using TPUs and GPUs. The comparison of different training approaches showed that:
